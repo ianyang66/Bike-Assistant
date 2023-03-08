@@ -1,0 +1,170 @@
+solid OBJECT
+  facet normal 0 -1 -0
+    outer loop
+      vertex -3 -2.162992000579834 0
+      vertex 3 -2.162992000579834 0
+      vertex 3 -2.162992000579834 3
+    endloop
+  endfacet
+  facet normal 0 -1 -0
+    outer loop
+      vertex -3 -2.162992000579834 0
+      vertex 3 -2.162992000579834 3
+      vertex -3 -2.162992000579834 3
+    endloop
+  endfacet
+  facet normal 1 -0 0
+    outer loop
+      vertex 3 -2.162992000579834 0
+      vertex 3 2.2379252910614014 0
+      vertex 3 2.2379252910614014 3
+    endloop
+  endfacet
+  facet normal 1 0 -0
+    outer loop
+      vertex 3 -2.162992000579834 0
+      vertex 3 2.2379252910614014 3
+      vertex 3 -2.162992000579834 3
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex 3 2.2379252910614014 0
+      vertex -3 2.2379252910614014 0
+      vertex -3 2.2379252910614014 3
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex 3 2.2379252910614014 0
+      vertex -3 2.2379252910614014 3
+      vertex 3 2.2379252910614014 3
+    endloop
+  endfacet
+  facet normal -1 -0 -0
+    outer loop
+      vertex -3 2.2379252910614014 0
+      vertex -3 -2.162992000579834 0
+      vertex -3 -2.162992000579834 3
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex -3 2.2379252910614014 0
+      vertex -3 -2.162992000579834 3
+      vertex -3 2.2379252910614014 3
+    endloop
+  endfacet
+  facet normal -0 -0 -1
+    outer loop
+      vertex 3 -2.162992000579834 0
+      vertex -3 -2.162992000579834 0
+      vertex -3 2.2379252910614014 0
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex -3 2.2379252910614014 0
+      vertex 3 2.2379252910614014 0
+      vertex 3 -2.162992000579834 0
+    endloop
+  endfacet
+  facet normal 0 -0 1
+    outer loop
+      vertex 3 -2.162992000579834 3
+      vertex -3 2.2379252910614014 3
+      vertex -3 -2.162992000579834 3
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+      vertex -3 2.2379252910614014 3
+      vertex 3 -2.162992000579834 3
+      vertex 3 2.2379252910614014 3
+    endloop
+  endfacet
+  facet normal 0.1414213562373095 0.98994949366116658 0
+    outer loop
+      vertex 4 3 0
+      vertex -3 4 0
+      vertex -3 4 3
+    endloop
+  endfacet
+  facet normal 0.1414213562373095 0.98994949366116658 0
+    outer loop
+      vertex 4 3 0
+      vertex -3 4 3
+      vertex 4 3 3
+    endloop
+  endfacet
+  facet normal -0.98994949366116658 0.1414213562373095 0
+    outer loop
+      vertex -3 4 0
+      vertex -4 -3 0
+      vertex -4 -3 3
+    endloop
+  endfacet
+  facet normal -0.98994949366116658 0.1414213562373095 0
+    outer loop
+      vertex -3 4 0
+      vertex -4 -3 3
+      vertex -3 4 3
+    endloop
+  endfacet
+  facet normal -0.1414213562373095 -0.98994949366116658 0
+    outer loop
+      vertex -4 -3 0
+      vertex 3 -4 0
+      vertex 3 -4 3
+    endloop
+  endfacet
+  facet normal -0.1414213562373095 -0.98994949366116658 0
+    outer loop
+      vertex -4 -3 0
+      vertex 3 -4 3
+      vertex -4 -3 3
+    endloop
+  endfacet
+  facet normal 0.98994949366116658 -0.1414213562373095 0
+    outer loop
+      vertex 3 -4 0
+      vertex 4 3 0
+      vertex 4 3 3
+    endloop
+  endfacet
+  facet normal 0.98994949366116658 -0.1414213562373095 0
+    outer loop
+      vertex 3 -4 0
+      vertex 4 3 3
+      vertex 3 -4 3
+    endloop
+  endfacet
+  facet normal -0 -0 -1
+    outer loop
+      vertex 3 -4 0
+      vertex -4 -3 0
+      vertex -3 4 0
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex -3 4 0
+      vertex 4 3 0
+      vertex 3 -4 0
+    endloop
+  endfacet
+  facet normal -0 -0 1
+    outer loop
+      vertex 3 -4 3
+      vertex -3 4 3
+      vertex -4 -3 3
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+      vertex -3 4 3
+      vertex 3 -4 3
+      vertex 4 3 3
+    endloop
+  endfacet
+endsolid OBJECT
