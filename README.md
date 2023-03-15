@@ -1,4 +1,4 @@
-# NDHU_Network_Laboratory_Final_Project
+# Bike-Assistant
 Prototype for bike assistant. Network Laboratory Course Final Project, 2020 Fall
 
 ## Flow
